@@ -1,4 +1,3 @@
-# Jim McDuffie
 ## IT Desktop Support | Continuing Education Portfolio
 
 Welcome to my professional portfolio. This site highlights my ongoing education,
