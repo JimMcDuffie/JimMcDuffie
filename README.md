@@ -1,4 +1,4 @@
-## BTW I Use Arch Linux 🌱
+## BTW I Use Arch
 
 <!--
 **JimMcDuffie/JimMcDuffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
