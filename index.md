@@ -16,8 +16,9 @@ practical skill development to stay current with modern IT environments.
 - CompTIA A+
 - CompTIA N+
 - Microsoft MCP
-- Google IT Support Professional Certificate (Inprogress)
 - LinkedIn Learning – Windows 11 Troubleshooting
+- Google IT Support Professional Certificate (Inprogress)
+- Linux Certification (Pending)
 
 ---
 
