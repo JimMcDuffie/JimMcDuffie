@@ -1,4 +1,4 @@
-# 🌱 Fun fact: ... I Use Arch
+# 🌱 Fun fact: ... I Use Arch BTW!
 
 
 <!--
